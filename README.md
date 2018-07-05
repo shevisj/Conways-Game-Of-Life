@@ -1,5 +1,5 @@
 # Conways-Game-Of-Life
-### An implementation of Jon Conway's "Game of Life" written in C++
+### An implementation of John Conway's "Game of Life" written in C++
 
 * Author: William Shevis Johnson
 * Data Structures : Spring 2016
