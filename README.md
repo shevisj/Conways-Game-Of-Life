@@ -1,9 +1,9 @@
 # Conways-Game-Of-Life
-## An implementation of Jon Conway's "Game of Life" written in C++
+### An implementation of Jon Conway's "Game of Life" written in C++
 
-## Author: William Shevis Johnson
-## Data Structures : Spring 2016
-## Assignment_2 - Conway's Game of Life
+* Author: William Shevis Johnson
+* Data Structures : Spring 2016
+* Assignment_2 - Conway's Game of Life
 
 From (Wikipedia)[https://en.wikipedia.org/wiki/Conway%27s_Game_of_Life]:
 >"The Game of Life, also known simply as Life, is a cellular automaton devised by the British mathematician John Horton Conway in 1970.
